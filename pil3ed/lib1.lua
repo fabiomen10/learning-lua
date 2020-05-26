@@ -1,5 +1,5 @@
-function norm(x,y)
-  return(xˆ2+yˆ2)ˆ0.5
+function norm(x, y)
+  return(x ˆ 2 + y ˆ 2) ˆ 0.5
 end
 
 function twice(x)
