@@ -1,0 +1,1 @@
+Lua Quick Start Guide (Guia de Início Rápido em Lua)
